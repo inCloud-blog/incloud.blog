@@ -1,5 +1,5 @@
 baseURL = "https://jolly-cliff-0524d0603-4.westeurope.azurestaticapps.net/"
 languageCode = "en-us"
 title = "IT Blog"
-theme="docksy"
+theme="docsy"
 
