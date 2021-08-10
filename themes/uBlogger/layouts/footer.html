@@ -1,9 +1,0 @@
-{{- if ne .Site.Params.footer.enable false -}}
-{{- /* Custom Content */ -}} {{- with .Site.Params.footer.custom -}}
-{{- safeHTML . -}} 
-{{- end -}} {{- /* Hugo and uBlogger */ -}} {{- if ne .Site.Params.footer.hugo false -}}
-{{- $hugo := printf `Hugo` hugo.Version -}} {{- $theme := .Scratch.Get "version" | printf `uBlogger` $.Site.BaseURL (.Scratch.Get "version") -}} {{- dict "Hugo" $hugo "Theme" $theme | T "poweredBySome" | safeHTML }} 
-{{- end -}}
-{{- /* Copyright year */ -}} {{- if ne .Site.Params.footer.copyright false -}} {{- with .Site.Params.footer.since -}} {{- if lt . now.Year }}{{ . }} - {{ end }}{{ now.Year -}} {{- else -}} {{ now.Year }} {{- end -}} {{- end -}} {{- /* Author */ -}} {{- $authorName := .Site.Author.name | default " " -}} {{- if ne $authorName " " -}} {{ $author := index .Site.Data.authors $authorName }} {{- $authorLink := $author.link | default .Site.Home.RelPermalink -}}  {{ $author.nickname }} {{- end -}} {{- /* License */ -}} {{- with .Site.Params.footer.license -}}  | {{ . | safeHTML }} {{- end -}} {{- /* ICP */ -}} {{- with .Site.Params.footer.icp -}}  | 
-{{ . | safeHTML }} {{- end -}} 
-{{- end -}} 
