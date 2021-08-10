@@ -2,7 +2,7 @@
 title: "Azure Monitor and Kibana integration"
 subtitle: ""
 date: 2021-08-10T21:18:26+02:00
-draft: false
+draft: true
 author: "pawel.en"
 description: ""
 
