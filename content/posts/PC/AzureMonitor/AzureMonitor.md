@@ -37,6 +37,7 @@ license: ""
 ---
 
 ## Prologue
+
 In this time, in modern IT departments cloud computing and especialy public cloud is something normal. Most of workloads are running in local datacenter but we don’t afraid new posibilities of public cloud - it’s a fact. We know how to build and use environments and how to deliver necessary resources to business need. But do we really have ability and knowledge to extract and visualize important data from our public cloud environments? Do we know what’s more important - security logs, sys logs or usage/performance data?
 
 In next four articles I’ll try to demonstrate three most popular utilities to collect, visualize and share operational dashboards.
@@ -59,11 +60,17 @@ This article is first in this series:
 
 ## Azure Monitor configuration
 
-Azure Monitor is a native Microsft cloud tool. It provides ability to collect, visualize and respond to our environment needs. 
+Azure Monitor is a native Microsft Azure tool. It provides ability to collect, visualize and respond to our environment needs. 
 We can colelct:
 - logs
 - metrics
-
+Regarding to this data we can create alerts and notifications. 
+In the second hand we can visualize metrics from our environment.
+First thing that we must consider is how to implement Azure Monitor Agent - there is two ways to archive that:
+- autoinstallation on all Virtual Machines 
+- manual installation 
+Difference is obvious and i don't need to explain that first way is comfortable and the second give us more control on cost and configuration. 
+To setup automatic installation we need to modify properties of log analytics workspace that is used with Azure Monitor. 
 
 ## Data visualization
 

@@ -42,7 +42,7 @@ This article is the second in this series:
 
 [ ] [Azure Monitor](/azuremonitor/)
 
-[x] [Azure Monitor and grafana integration](/azuremonitor-grafana/)
+[x] [Azure Monitor and Grafana integration](/azuremonitor-grafana/)
 
 [ ] [Azure Monitor and Elasticsearch/Kibana](/azuremonitor-elkkibana/)
 

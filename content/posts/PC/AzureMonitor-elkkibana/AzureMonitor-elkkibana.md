@@ -12,7 +12,7 @@ page:
 upd: ""
 authorComment: ""
 
-tags: [Microsoft Azure, Azure Monitor, Grafana]
+tags: [Microsoft Azure, Azure Monitor, Kibana]
 categories: [Microsoft Azure]
 
 hiddenFromHomePage: false
@@ -42,7 +42,7 @@ This article is third in this series:
 
 [ ] [Azure Monitor](/azuremonitor/)
 
-[ ] [Azure Monitor and grafana integration](/azuremonitor-grafana/)
+[ ] [Azure Monitor and Grafana integration](/azuremonitor-grafana/)
 
 [x] [Azure Monitor and Elasticsearch/Kibana](/azuremonitor-elkkibana/)
 
