@@ -1,24 +1,11 @@
 baseURL = "https://inCloud.blog/"
-# [en, zh-cn, fr, pl, ...] determines default content language
-# [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
-# theme
-# 主题
 theme = "uBlogger"
 
-
-# website title
-# 网站标题
 title = "inCloud.blog"
 
-# whether to use robots.txt
-# 是否使用 robots.txt
 enableRobotsTXT = true
-# whether to use git commit log
-# 是否使用 git 信息
 enableGitInfo = true
-# whether to use emoji code
-# 是否使用 emoji 代码
 enableEmoji = true
 
 [languages]
@@ -232,10 +219,10 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "img/global/space.png"
       # title name
       # 标题名称
-      name = "inCloud.blog"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
