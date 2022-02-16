@@ -1,36 +1,18 @@
 baseURL = "https://inCloud.blog/"
-# [en, zh-cn, fr, pl, ...] determines default content language
-# [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
-# theme
-# 主题
 theme = "uBlogger"
 
-
-# website title
-# 网站标题
 title = "inCloud.blog"
-
-# whether to use robots.txt
-# 是否使用 robots.txt
 enableRobotsTXT = true
-# whether to use git commit log
-# 是否使用 git 信息
 enableGitInfo = true
-# whether to use emoji code
-# 是否使用 emoji 代码
 enableEmoji = true
 
 [languages]
   [languages.en]
     weight = 1
-    # language code
     languageCode = "en"
-    # language name
     languageName = "English"
-    # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
-    # default amount of posts in each pages
     paginate = 10
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
