@@ -5,3 +5,15 @@
 .single h2 {
     margin-top: 1rem!important;
 }
+.header-logo img {
+    [theme=dark] & {
+        content: url("../../img/global/incloud.blog logo white.png")!important;
+        fill: $global-font-color-dark;
+        width: 95px;
+        padding-top: 6px;
+        
+    }
+    content: url("../../img/global/incloud.blog logo black.png")!important;
+    width: 95px;
+    padding-top: 6px;
+}
