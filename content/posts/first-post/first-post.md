@@ -1,11 +1,10 @@
 ---
-title: "First Post"
+title: "Hello World"
 subtitle: ""
-date: 2021-08-10T17:25:30+02:00
-lastmod: 2021-08-10T17:25:30+02:00
+date: 2022-01-28T00:00:01+02:00
 draft: false
 author: "piotr.en"
-description: ""
+description: "First post on this blog."
 
 page:
     theme: "wide"
@@ -13,8 +12,8 @@ page:
 upd: ""
 authorComment: ""
 
-tags: []
-categories: []
+tags: [Hello World]
+categories: [General]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -25,7 +24,7 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.jpg
 
-featuredImage: ""
+featuredImage: "/img/PC/AVDSeries/img/featured-image.png"
 featuredImagePreview: ""
 images: [""]
 
@@ -38,3 +37,7 @@ license: ""
 ---
 
 <!--more-->
+## Welcome 
+
+Hello everyone. 
+In this blog You will find news, tips and tricks and more regarding to our work with public cloud projects. 
