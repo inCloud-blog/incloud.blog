@@ -7,13 +7,13 @@
 }
 .header-logo img {
     [theme=dark] & {
-        content: url("../../img/global/incloud.blog logo white.png")!important;
+        content: url("https://incloud.blog/img/global/incloud.blog%20logo%20white.png")!important;
         fill: $global-font-color-dark;
-        width: 95px;
+        width: 95px!important;
         padding-top: 6px;
         
     }
-    content: url("../../img/global/incloud.blog logo black.png")!important;
-    width: 95px;
+    content: url("https://incloud.blog/img/global/incloud.blog%20logo%20black.png")!important;
+    width: 95px!important;
     padding-top: 6px;
 }
