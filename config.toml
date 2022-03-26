@@ -215,7 +215,7 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "img/global/space.png"
+      logo = "https://incloud.blog/img/global/space.png"
       # title name
       # 标题名称
       name = ""
