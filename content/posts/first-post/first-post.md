@@ -2,7 +2,7 @@
 title: "Hello World"
 subtitle: ""
 date: 2022-01-28T00:00:01+02:00
-draft: false
+draft: true
 author: "piotr.en"
 description: "First post on this blog."
 
@@ -19,13 +19,11 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
 - name: featured-image-preview
-  src: featured-image-preview.jpg
+  src: "/img/global/Featured Image 2.jpg"
 
-featuredImage: "/img/PC/AVDSeries/img/featured-image.png"
-featuredImagePreview: ""
+featuredImage: ""
+featuredImagePreview: "/img/global/Featured Image 2.jpg"
 images: [""]
 
 toc:

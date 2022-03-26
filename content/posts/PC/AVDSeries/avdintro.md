@@ -19,13 +19,13 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 resources:
-- name: "featured-image"
-  src: "/img/PC/AVDSeries/img/featured-image.png"
 - name: "featured-image-preview"
-  src: "/img/PC/AVDSeries/img/featured-image-preview.png"
+  src: "/img/global/Featured Image 1.jpg"
+- name: "featured-image"
+  src: "/img/PC/AVDSeries/img/Azure Virtual Desktop - Introduction 3.jpg"
 
-featuredImage: "/img/PC/AVDSeries/img/featured-image.png"
-featuredImagePreview: "/img/PC/AVDSeries/img/featured-image-preview.png"
+featuredImage: "/img/PC/AVDSeries/img/Azure Virtual Desktop - Introduction 3.jpg"
+featuredImagePreview: "/img/global/Featured Image 1.jpg"
 images: [""]
 
 toc:
