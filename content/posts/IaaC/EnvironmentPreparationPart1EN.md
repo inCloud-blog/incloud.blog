@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure as a Code - Environment preparation - Part 1"
+title: "IaaC - Environment preparation - Part 1"
 subtitle: "Windows 10/11"
 date: 2022-03-26T12:00:00+02:00
 draft: true
@@ -7,7 +7,7 @@ author: "pawel.en"
 description: "Infrastructure as a Code Series. In this series I'll show how to start with IaaC"
 page:
     theme: "wide"
-upd: ""
+
 authorComment: "Introduction to IaaC"
 tags: [Infrastructure as a Code, Public Cloud]
 categories: [Microsoft Azure]

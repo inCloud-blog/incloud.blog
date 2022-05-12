@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure as a Code - Azure Bicep - First steps"
+title: "IaaC - Azure Bicep - First steps"
 subtitle: ""
 date: 2022-04-03T11:00:00+02:00
 draft: true
@@ -7,7 +7,7 @@ author: "pawel.en"
 description: "Infrastructure as a Code Series."
 page:
     theme: "wide"
-upd: ""
+
 authorComment: "Introduction to Azure Virtual Desktop"
 tags: [Infrastructure as a Code, Public Cloud, Azure Bicep]
 categories: [Microsoft Azure, Infrastructure as a Code]

@@ -1,10 +1,10 @@
 ---
-title: "IaaC - Przygotwanie środowiska pracy - Część 1"
-subtitle: "Windows 10/11"
-date: 2022-03-26T12:00:00+02:00
-draft: false
+title: "IaaC- Przygotwanie środowiska pracy - Część 2"
+subtitle: "Ubuntu"
+date: 2022-05-24T12:00:00+02:00
+draft: true
 author: "pawel.en"
-description: "Seria Infrastructure as a Code. W tej serii postaram się przedstawić wszystkie aspekty pracy z IaaC od przygotowania środowiska pracy do jego wykorzystania."
+description: "Seria Infrastructure as a Code. W tej serii postaram się przedstawić wszystkie aspekty pracy z IaaC od przygotowania środowiska do jego wykorzystania."
 page:
     theme: "wide"
 
@@ -37,7 +37,7 @@ Każdy zasób chmurowy może być zdefiniowany jako szablon, obraz lub skrypt - 
 
 Jeśli zaczynasz przygodę z Infrastructure as a Code będziesz potrzebował odpowiednio przygotowanego środowiska do pracy z szablonami (ARM, Bicep, Terraform), obrazami kontenerów, skryptami.
 
-Ta część poświęcona jest konfiguracji systemu Windows 10/11.
+Ta część poświęcona jest konfiguracji systemu MacOS.
 
 ## Konfiguracja
 
@@ -86,4 +86,4 @@ v1.0 - Publikacja dokumentu
 
 ## Linki
 
-[Github Repo](https://github.com/pchylak/inCloud.blog/blob/main/IaaC/WindowsEnvScript.md)
+[Github Repo](https://github.com/pchylak/inCloud.blog/blob/main/IaaC/UbuntuEnvScript.md)

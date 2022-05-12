@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure as a Code - Przygotwanie środowiska pracy - Część 2"
+title: "IaaC- Przygotwanie środowiska pracy - Część 2"
 subtitle: "MacOS"
 date: 2022-04-23T12:00:00+02:00
 draft: true
@@ -7,7 +7,7 @@ author: "pawel.en"
 description: "Seria Infrastructure as a Code. W tej serii postaram się przedstawić wszystkie aspekty pracy z IaaC od przygotowania środowiska do jego wykorzystania."
 page:
     theme: "wide"
-upd: ""
+
 authorComment: "Wprowadzenie do IaaC"
 tags: [Infrastructure as a Code, Public Cloud]
 categories: [Microsoft Azure]
@@ -86,4 +86,4 @@ v1.0 - Publikacja dokumentu
 
 ## Linki
 
-[Github Repo](https://github.com/pchylak/inCloud.blog/blob/main/IaaC/WindowsEnvScript.md)
+[Github Repo](https://github.com/pchylak/inCloud.blog/blob/main/IaaC/MacosEnvScript.md)

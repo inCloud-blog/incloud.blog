@@ -1,13 +1,13 @@
 ---
-title: "Infrastructure as a Code - Azure Bicep - Pierwszy szablon"
+title: "IaaC - Azure Bicep - Pierwszy szablon"
 subtitle: ""
 date: 2022-05-02T11:00:00+02:00
 draft: false
 author: "pawel.en"
-description: "Seria Infrastructure as a Code. W tej serii postaram się przedstawić wszystkie aspekty pracy z IaaC od przygotowania środowiska do jego wykorzystania."
+description: "Seria Infrastructure as a Code. W tej serii postaram się przedstawić wszystkie aspekty pracy z IaaC od przygotowania środowiska pracy do jego wykorzystania."
 page:
     theme: "wide"
-upd: ""
+
 authorComment: "Introduction to Azure Virtual Desktop"
 tags: [Infrastructure as a Code, Public Cloud, Azure Bicep]
 categories: [Microsoft Azure, Infrastructure as a Code, Azure Bicep]
